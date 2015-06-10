@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'GoodDog';
+    src: url('fonts/GoodDog.otf');
+}
+
+.label {
+    -fx-font-family: 'GoodDog';
+    -fx-font-size: 50;
+}
+
+.button .text {
+    -fx-font-family: 'GoodDog';
+}
