@@ -1,2 +1,2 @@
 # FontLoad
-A simple JavaFX application which shows to correctly load a font
+A simple JavaFX application which loads a font and shows it on Label and Button
