@@ -9,7 +9,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 
-public class LoadFont extends Application {
+public class FontLoad extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Label label = new Label("JavaFX Application");
